@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lime
-- I am working on the Among Us mod TOHEEL
-- I dont know how to code it yet lol, but I learn quickly
+- I am working on the Among Us mod Town of Betrayal
 - I host Among Us mods often
 - Reach me on Discord at limeau.
 
